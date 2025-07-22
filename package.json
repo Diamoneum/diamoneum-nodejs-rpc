@@ -1,17 +1,17 @@
 {
-  "name": "qwertycoin-nodejs-rpc",
+  "name": "diamoneum-nodejs-rpc",
   "version": "0.8.10",
-  "description": "Qwertycoin RPC API Interface in NodeJS",
+  "description": "Diamoneum RPC API Interface in NodeJS",
   "main": "index.js",
   "scripts": {
     "test": "standard"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qwertycoin-org/qwertycoin-nodejs-rpc.git"
+    "url": "git+https://github.com/Diamoneum/diamoneum-nodejs-rpc.git"
   },
   "keywords": [
-    "Qwertycoin",
+    "Diamoneum",
     "RPC",
     "API"
   ],
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/qwertycoin-org/qwertycoin-nodejs-rpc/issues"
   },
-  "homepage": "https://qwertycoin.org/",
+  "homepage": "https://diamoneum.com",
   "dependencies": {
     "request": "^2.88.0",
     "request-promise-native": "^1.0.5"

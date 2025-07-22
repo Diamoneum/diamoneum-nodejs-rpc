@@ -4,8 +4,8 @@
 
 'use strict'
 
-module.exports.QwertyCoind = require('./lib/qwertycoind-rpc.js')
-module.exports.QwertyService = require('./lib/service-rpc.js')
+module.exports.Diamoneumd = require('./lib/diamoneumd-rpc.js')
+module.exports.DiamoneumService = require('./lib/service-rpc.js')
 module.exports.Client = require('./lib/client-rpc.js')
 
 // These exports will be deprecated in a future version.
